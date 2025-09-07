@@ -19,7 +19,9 @@
   - `PyPDF2` (for PDF text extraction)  
   - `python-docx` (for DOCX text extraction)  
   - `io` (for file handling)  
-- **Deployment:** Netlify / Streamlit Cloud / Vercel (optional for hosting)  
+- **Deployment:** Netlify / Streamlit Cloud / Vercel (optional for hosting)
+- ## 🌐 Live Demo
+[Click here to try it out](https://smart-resume-reviewer-woqnh5ym5otyikqtmnatwf.streamlit.app/)
 
 ## 📁 How to Run Locally
 1. Clone the repository:  
